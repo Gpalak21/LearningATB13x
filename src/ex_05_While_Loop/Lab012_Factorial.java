@@ -12,7 +12,6 @@ public class Lab012_Factorial {
         }
         int number = scanner.nextInt();
 
-
         int fact = 1;
 
         if(number <0)
