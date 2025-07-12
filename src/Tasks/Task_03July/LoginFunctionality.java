@@ -1,7 +1,7 @@
 package Tasks.Task_03July;
 
 public class LoginFunctionality {
-    public static void main(String[] args) {
+    public static void main(String... args) {
         User u1 = new AdminUser();
         u1.login();
         User u2 = new RegularUser();
