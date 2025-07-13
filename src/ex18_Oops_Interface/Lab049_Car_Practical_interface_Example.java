@@ -1,4 +1,4 @@
-package ex17_Oops_Interface;
+package ex18_Oops_Interface;
 
 public class Lab049_Car_Practical_interface_Example {
     public static void main(String[] args) {

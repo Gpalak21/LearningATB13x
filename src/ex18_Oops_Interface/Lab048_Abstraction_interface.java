@@ -1,4 +1,4 @@
-package ex17_Oops_Interface;
+package ex18_Oops_Interface;
 
 public class Lab048_Abstraction_interface {
     public static void main(String[] args) {
