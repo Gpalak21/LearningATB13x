@@ -1,4 +1,4 @@
-package ex20_Wrapper_Class;
+package ex_20_Wrapper_Class;
 
 public class Lab051_primitive_wrapper {
     public static void main(String[] args) {

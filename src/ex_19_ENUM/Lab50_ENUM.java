@@ -1,4 +1,4 @@
-package ex19_ENUM;
+package ex_19_ENUM;
 
 public class Lab50_ENUM {
     public static void main(String[] args) {

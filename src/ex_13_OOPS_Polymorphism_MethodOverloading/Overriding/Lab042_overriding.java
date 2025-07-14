@@ -1,4 +1,4 @@
-package ex13_OOPS_Polymorphism_MethodOverloading.Overriding;
+package ex_13_OOPS_Polymorphism_MethodOverloading.Overriding;
 
 public class Lab042_overriding {
     public static void main(String[] args) {

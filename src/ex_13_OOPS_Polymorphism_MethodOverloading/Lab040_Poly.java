@@ -1,4 +1,4 @@
-package ex13_OOPS_Polymorphism_MethodOverloading;
+package ex_13_OOPS_Polymorphism_MethodOverloading;
 
 public class Lab040_Poly {
     public static void main(String[] args) {
