@@ -1,7 +1,6 @@
-package ex_23_Collection_Framework;
+package ex_23_Collection_Framework.LIST;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class Lab_074_AL_Students {
     public static void main(String[] args) {

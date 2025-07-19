@@ -1,4 +1,4 @@
-package ex_23_Collection_Framework;
+package ex_23_Collection_Framework.LIST;
 
 public class Lab063_ {
     public static void main(String[] args) {
